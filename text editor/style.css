@@ -1,0 +1,28 @@
+/* Basic styling for the text editor */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  textarea {
+    width: 100%;
+    height: 300px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
